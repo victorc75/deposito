@@ -1,7 +1,10 @@
 package cuentas;
 public class CCuenta {
 
-
+//Esta es una prueba
+//Y esta la segunda prueba
+	//tercera prueba
+	
     private String nombre;
     private String cuenta;
     private double saldo;
